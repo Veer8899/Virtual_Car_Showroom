@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.anpvrcar_showroom.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\MajorProject_VR_Carshowroom\\Project\\ANP VR Car_Showroom\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "ANP VR Car_Showroom [Testing]"
+        }
+      }
+    }
+  ]
+}
